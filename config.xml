@@ -5,14 +5,14 @@
      id    = "com.phonegap.Esqueleto"  
      version  = "1.0.0">  
 	 
-   <name> CALIBRE 50 </name>  
+   <name> ATLIXCO </name>  
    
    <description>  
-     MUSICA BANDA,HISTORIA Y MAS
+     TURISMO
    </description>  
    
    <author href="https://build.phonegap.com" email="micorreo@gmail.com">  
-       ERIC
+       YO
    </author>  
    
    <!-- Personaliza la aplicacion y plataforma  -->  
